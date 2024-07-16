@@ -66,7 +66,7 @@ function Signup({ isAdmin }) {
   };
 
   return (
-    <div className="flex flex-col md:flex-row h-screen">
+    <div className="flex flex-col md:flex-row h-full">
       <div className="md:w-1/2 flex items-center justify-center bg-black border-r-2">
         <img
           src="https://h2r.ai/wp-content/uploads/2023/07/Login-left-side.png"
