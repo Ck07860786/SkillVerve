@@ -1,7 +1,7 @@
 {
   "name": "client",
   "private": true,
-  "proxy": "http://localhost:5173",
+  "proxy": "https://skillverve.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
