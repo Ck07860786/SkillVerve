@@ -4,5 +4,5 @@
 # Ignore Node.js modules
 node_modules/
 
-# If using npm, also add this to ignore lock files
+# ignore lock files
 package-lock.json
